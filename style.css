@@ -1,0 +1,19 @@
+styles.css
+body {
+     color: white;
+     background:black;
+     margin: 0px;
+}
+
+header{
+     border-bottom: solid 2px orange;
+     padding:  20px;
+     font-size:  32px:
+     color: orange;
+}
+
+section{
+    background: rgb(247, 179, 218);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
